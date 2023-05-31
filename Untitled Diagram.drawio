@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T18:52:11.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="dGCdlEkAlSN8Z-M6mtTd" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T19:08:51.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="blW0rDWzc3rUPZ6QUtRu" version="21.3.6" type="github">
   <diagram name="Page-1" id="cdfSOh-yHQmfq21NCN2S">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,24 @@
         <mxCell id="1" parent="0" />
         <mxCell id="TUkYBW7ximP37eiaecWa-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="110" width="320" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="TUkYBW7ximP37eiaecWa-4" value="Actions" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="380" y="120" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUkYBW7ximP37eiaecWa-5" value="X" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#ed3535;" vertex="1" parent="1">
+          <mxGeometry x="600" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TUkYBW7ximP37eiaecWa-6" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#0D6EFD;" vertex="1" parent="1">
+          <mxGeometry x="395" y="190" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TUkYBW7ximP37eiaecWa-7" value="Add Labels" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="458.75" y="182.5" width="142.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="TUkYBW7ximP37eiaecWa-8" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#0D6EFD;" vertex="1" parent="1">
+          <mxGeometry x="395" y="257.5" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TUkYBW7ximP37eiaecWa-9" value="Add to a Bill" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="458.75" y="250" width="142.5" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
